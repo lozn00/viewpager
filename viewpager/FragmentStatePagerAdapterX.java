@@ -1,4 +1,4 @@
-package com.huluboshi.ui.viewpager;
+package space.qssq.viewpager;
 
 import android.os.Bundle;
 import android.os.Parcelable;
