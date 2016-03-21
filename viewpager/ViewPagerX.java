@@ -1,4 +1,4 @@
-package com.huluboshi.ui.viewpager;
+package space.qssq.viewpager;
 
 /**
  * Created by luozheng on 15/12/17.
